@@ -26,7 +26,25 @@
       "arquivo": "templates/brasileirao_2026.json"
     },
     {
-      "id": "copa_2026",
+      "id": "copa_206",
+      "titulo": "Copa do Mundo 2026",
+      "subtitulo": "670 figurinhas",
+      "arquivo": "templates/copa_2026.json"
+    },
+    {
+      "id": "vingadores_206",
+      "titulo": "Vingadores - Doutor Destino",
+      "subtitulo": "Album figurinhas, cards da Panini",
+      "arquivo": "templates/vingadores2026.json"
+    },
+    {
+      "id": "brasileirao_26",
+      "titulo": "Brasileirão 2026 - Panini",
+      "subtitulo": "512 figurinhas + 98 cards",
+      "arquivo": "templates/brasileirao_2026.json"
+    },
+    {
+      "id": "copa_6",
       "titulo": "Copa do Mundo 2026",
       "subtitulo": "670 figurinhas",
       "arquivo": "templates/copa_2026.json"
@@ -38,19 +56,19 @@
       "arquivo": "templates/vingadores2026.json"
     },
     {
-      "id": "brasileirao_2026",
+      "id": "brasileir26",
       "titulo": "Brasileirão 2026 - Panini",
       "subtitulo": "512 figurinhas + 98 cards",
       "arquivo": "templates/brasileirao_2026.json"
     },
     {
-      "id": "copa_2026",
+      "id": "copa26",
       "titulo": "Copa do Mundo 2026",
       "subtitulo": "670 figurinhas",
       "arquivo": "templates/copa_2026.json"
     },
     {
-      "id": "vingadores_2026",
+      "id": "vinado_2026",
       "titulo": "Vingadores - Doutor Destino",
       "subtitulo": "Album figurinhas, cards da Panini",
       "arquivo": "templates/vingadores2026.json"
@@ -62,19 +80,19 @@
       "arquivo": "templates/brasileirao_2026.json"
     },
     {
-      "id": "copa_2026",
+      "id": "pa_206",
       "titulo": "Copa do Mundo 2026",
       "subtitulo": "670 figurinhas",
       "arquivo": "templates/copa_2026.json"
     },
     {
-      "id": "vingadores_2026",
+      "id": "vingaes_2026",
       "titulo": "Vingadores - Doutor Destino",
       "subtitulo": "Album figurinhas, cards da Panini",
       "arquivo": "templates/vingadores2026.json"
     },
     {
-      "id": "brasileirao_2026",
+      "id": "brleirao_2026",
       "titulo": "Brasileirão 2026 - Panini",
       "subtitulo": "512 figurinhas + 98 cards",
       "arquivo": "templates/brasileirao_2026.json"
@@ -86,25 +104,7 @@
       "arquivo": "templates/copa_2026.json"
     },
     {
-      "id": "vingadores_2026",
-      "titulo": "Vingadores - Doutor Destino",
-      "subtitulo": "Album figurinhas, cards da Panini",
-      "arquivo": "templates/vingadores2026.json"
-    },
-    {
-      "id": "brasileirao_2026",
-      "titulo": "Brasileirão 2026 - Panini",
-      "subtitulo": "512 figurinhas + 98 cards",
-      "arquivo": "templates/brasileirao_2026.json"
-    },
-    {
-      "id": "copa_2026",
-      "titulo": "Copa do Mundo 2026",
-      "subtitulo": "670 figurinhas",
-      "arquivo": "templates/copa_2026.json"
-    },
-    {
-      "id": "vingadores_2026",
+      "id": "vingadore2026",
       "titulo": "Vingadores - Doutor Destino",
       "subtitulo": "Album figurinhas, cards da Panini",
       "arquivo": "templates/vingadores2026.json"
