@@ -1,1 +1,29 @@
-
+{
+  "secoes": [
+    {
+      "nome": "base",
+      "prefixo": "",
+      "totalDeCromos": 192,
+      "totalDeCromosPorPagina": 6,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": false
+      
+    },
+    {
+      "nome": "poster",
+      "prefixo": "P",
+      "totalDeCromos": 19,
+      "totalDeCromosPorPagina": 10,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": false
+    },
+    {
+      "titulo": "cards",
+      "prefixo": "C",
+       "totalDeCromos": 50,
+      "totalDeCromosPorPagina": 10,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": false,
+    }
+  ]
+}
