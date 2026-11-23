@@ -23,7 +23,7 @@
        "totalDeCromos": 50,
       "totalDeCromosPorPagina": 10,
       "intervaloValorInicial": 0,
-      "ehContinuacaoDeSecao": false,
+      "ehContinuacaoDeSecao": false
     }
   ]
 }
