@@ -1,0 +1,405 @@
+{
+  "secoes": [
+    {
+      "nome": "Abertura",
+      "prefixo": "CB",
+      "totalDeCromos": 34,
+      "totalDeCromosPorPagina": 6,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": false
+      
+    },
+    {
+      "nome": "Escudos",
+      "prefixo": "E",
+      "totalDeCromos": 40,
+      "totalDeCromosPorPagina": 10,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": false
+    },
+    {
+      "nome": "Mascotes - Série A",
+      "prefixo": "M",
+      "totalDeCromos": 20,
+      "totalDeCromosPorPagina": 10,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": false
+    },
+    {
+      "nome": "Flamengo",
+      "prefixo": "",
+      "totalDeCromos": 18,
+      "totalDeCromosPorPagina": 10,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": false
+    },
+    {
+      "nome": "Palmeira",
+      "prefixo": "",
+      "totalDeCromos": 18,
+      "totalDeCromosPorPagina": 10,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "Cruzeiro",
+      "prefixo": "",
+      "totalDeCromos": 18,
+      "totalDeCromosPorPagina": 10,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "Mirassol",
+      "prefixo": "",
+      "totalDeCromos": 18,
+      "totalDeCromosPorPagina": 10,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "Fluminense",
+      "prefixo": "",
+      "totalDeCromos": 18,
+      "totalDeCromosPorPagina": 10,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "Botafogo",
+      "prefixo": "",
+      "totalDeCromos": 18,
+      "totalDeCromosPorPagina": 10,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "Bahia",
+      "prefixo": "",
+      "totalDeCromos": 18,
+      "totalDeCromosPorPagina": 10,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "São Paulo",
+      "prefixo": "",
+      "totalDeCromos": 18,
+      "totalDeCromosPorPagina": 10,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "Grêmio",
+      "prefixo": "",
+      "totalDeCromos": 18,
+      "totalDeCromosPorPagina": 10,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "Red Bull Bragantino",
+      "prefixo": "",
+      "totalDeCromos": 18,
+      "totalDeCromosPorPagina": 10,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    }},
+    {
+      "nome": "Atlético Mineiro",
+      "prefixo": "",
+      "totalDeCromos": 18,
+      "totalDeCromosPorPagina": 10,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "Santos",
+      "prefixo": "",
+      "totalDeCromos": 18,
+      "totalDeCromosPorPagina": 10,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "Corinthias",
+      "prefixo": "",
+      "totalDeCromos": 18,
+      "totalDeCromosPorPagina": 10,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "Vasco da Gama",
+      "prefixo": "",
+      "totalDeCromos": 18,
+      "totalDeCromosPorPagina": 10,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "Vitória",
+      "prefixo": "",
+      "totalDeCromos": 18,
+      "totalDeCromosPorPagina": 10,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "Internacional",
+      "prefixo": "",
+      "totalDeCromos": 18,
+      "totalDeCromosPorPagina": 10,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "Coritiba",
+      "prefixo": "",
+      "totalDeCromos": 18,
+      "totalDeCromosPorPagina": 10,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "Atlético Paranaense",
+      "prefixo": "",
+      "totalDeCromos": 18,
+      "totalDeCromosPorPagina": 10,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "Chapecoense",
+      "prefixo": "",
+      "totalDeCromos": 18,
+      "totalDeCromosPorPagina": 10,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "Remo",
+      "prefixo": "",
+      "totalDeCromos": 18,
+      "totalDeCromosPorPagina": 10,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "Ceará",
+      "prefixo": "",
+      "totalDeCromos": 2,
+      "totalDeCromosPorPagina": 2,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "Fortaleza",
+      "prefixo": "",
+      "totalDeCromos": 2,
+      "totalDeCromosPorPagina": 2,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "Juventude",
+      "prefixo": "",
+      "totalDeCromos": 2,
+      "totalDeCromosPorPagina": 2,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "Sport Recife",
+      "prefixo": "",
+      "totalDeCromos": 2,
+      "totalDeCromosPorPagina": 2,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "Criciúma",
+      "prefixo": "",
+      "totalDeCromos": 2,
+      "totalDeCromosPorPagina": 2,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "Goiás",
+      "prefixo": "",
+      "totalDeCromos": 2,
+      "totalDeCromosPorPagina": 2,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "Novorizontino",
+      "prefixo": "",
+      "totalDeCromos": 2,
+      "totalDeCromosPorPagina": 2,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "CRB",
+      "prefixo": "",
+      "totalDeCromos": 2,
+      "totalDeCromosPorPagina": 2,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "Avaí",
+      "prefixo": "",
+      "totalDeCromos": 2,
+      "totalDeCromosPorPagina": 2,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "Cuibá",
+      "prefixo": "",
+      "totalDeCromos": 2,
+      "totalDeCromosPorPagina": 2,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "Atlético Goianiense",
+      "prefixo": "",
+      "totalDeCromos": 2,
+      "totalDeCromosPorPagina": 2,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "Operário Ferroviário",
+      "prefixo": "",
+      "totalDeCromos": 2,
+      "totalDeCromosPorPagina": 2,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "Vila Nova",
+      "prefixo": "",
+      "totalDeCromos": 2,
+      "totalDeCromosPorPagina": 2,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "América-MG",
+      "prefixo": "",
+      "totalDeCromos": 2,
+      "totalDeCromosPorPagina": 2,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "Athletic Club",
+      "prefixo": "",
+      "totalDeCromos": 2,
+      "totalDeCromosPorPagina": 2,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "Botafogo-SP",
+      "prefixo": "",
+      "totalDeCromos": 2,
+      "totalDeCromosPorPagina": 2,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "Ponte Preta",
+      "prefixo": "",
+      "totalDeCromos": 2,
+      "totalDeCromosPorPagina": 2,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "Londrina",
+      "prefixo": "",
+      "totalDeCromos": 2,
+      "totalDeCromosPorPagina": 2,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "Náutico",
+      "prefixo": "",
+      "totalDeCromos": 2,
+      "totalDeCromosPorPagina": 2,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "São Bernardo",
+      "prefixo": "",
+      "totalDeCromos": 2,
+      "totalDeCromosPorPagina": 2,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "Brasileirão Feminino",
+      "prefixo": "",
+      "totalDeCromos": 18 ,
+      "totalDeCromosPorPagina": 10,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": true
+    },
+    {
+      "nome": "Cards-Estrelas",
+      "prefixo": "E",
+      "totalDeCromos": 44,
+      "totalDeCromosPorPagina": 10,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": false
+    },
+     {
+      "nome": "Cards-Ídolos",
+      "prefixo": "I",
+      "totalDeCromos": 14,
+      "totalDeCromosPorPagina": 7,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": false
+    },
+     {
+      "nome": "Cards-Luva Dourada",
+      "prefixo": "D",
+      "totalDeCromos": 14,
+      "totalDeCromosPorPagina": 7,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": false
+    },
+     {
+      "nome": "Cards-Top Player",
+      "prefixo": "T",
+      "totalDeCromos": 12,
+      "totalDeCromosPorPagina": 6,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": false
+    },
+     {
+      "nome": "Cards-Legend",
+      "prefixo": "L",
+      "totalDeCromos": 8,
+      "totalDeCromosPorPagina": 8,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": false
+    },
+     {
+      "nome": "Cards-Prata da Casa",
+      "prefixo": "P",
+      "totalDeCromos": 6,
+      "totalDeCromosPorPagina": 6,
+      "intervaloValorInicial": 0,
+      "ehContinuacaoDeSecao": false
+    }
+  ]
+}
